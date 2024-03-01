@@ -1,0 +1,19 @@
+
+C++ Veri Tipleri Notu
+
+bool deger = true;
+
+char deger = 'a';
+
+string deger = "Deneyap Yazılım Eğitimi";
+
+int deger = 100;
+
+float deger = 1.456546634;
+
+double deger = 1.24235226564763;
+
+const int SAYI = 10;  --> sabit tanımlama
+
+değişken tanımlama formatı
+veriTipi desğişkenAdı = değer;
