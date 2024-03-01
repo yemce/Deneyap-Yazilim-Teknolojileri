@@ -1,0 +1,25 @@
+isalpha('c') ->  c karakteri eğer bir harf ise geriye 
+true değilse false döndürür.
+
+isdigit(‘c’) -> c karakteri eğer bir rakam ise 
+geriye true değilse false 
+döndürür.
+
+isalnum('c') ->  c karakteri eğer bir rakam veya 
+harf ise geriye true değilse false 
+döndürür.
+
+islower('c') -> c karakteri eğer bir küçük harf ise 
+geriye true değilse false 
+döndürür.
+
+isupper('c') -> c karakteri eğer bir büyük harf ise 
+geriye true değilse false 
+döndürür.
+
+tolower('c') ->  c karakterini küçük harfe çevirir.
+
+toupper('c') -> c karakterini büyük harfe çevirir.
+
+strlen (s1) -> s1 katarının uzunluğunu 
+döndürür.
